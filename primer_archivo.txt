@@ -2,4 +2,10 @@ Esta es mi historia
 
 hablaremos de mi vida
 
+notas importantes de github:
+
+cuando vayas a hacer un cambio en la nueva rama y quieras hacer checkout al master, 
+por favor tienes que hacer el commit porque si no lo vas a perder todo
+uwu
+
 tengo 20 años 
