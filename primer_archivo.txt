@@ -8,4 +8,15 @@ cuando vayas a hacer un cambio en la nueva rama y quieras hacer checkout al mast
 por favor tienes que hacer el commit porque si no lo vas a perder todo
 uwu
 
+
+Generar una nueva llave SSH: (Cualquier sistema operativo)
+
+ssh-keygen -t rsa -b 4096 -C "youremail@example.com"
+
+Comprobar proceso y agregarlo (Windows)
+
+eval $(ssh-agent - s)
+ssh-add ~/.ssh/id_rsa
+
+
 tengo 20 años 
