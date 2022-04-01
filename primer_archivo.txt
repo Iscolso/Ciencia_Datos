@@ -18,5 +18,7 @@ Comprobar proceso y agregarlo (Windows)
 eval $(ssh-agent - s)
 ssh-add ~/.ssh/id_rsa
 
+git log --all --graph --decorate --oneline
 
+este es un comando para mostrar toda la historia de tu proyecto
 tengo 20 años 
